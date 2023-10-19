@@ -1,11 +1,5 @@
-# katharinegillis/dot-net-core
-Just a bunch of dotfiles.
+# katharinegillis/php
+Installs the latest Php, Php 7.4, and Composer as docker containers.
 
 ## Install
-Clone and symlink or install with [ellipsis][ellipsis]:
-
-```
-$ ellipsis install katharinegillis/dot-net-core
-```
-
-[ellipsis]: http://ellipsis.sh
+Installs via the [katharinegillis/dot-desktop](https://github.com/katharinegillis/dot-desktop).
