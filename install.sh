@@ -21,4 +21,4 @@ sudo apt update
 sudo cp "$PKG_PATH/config/dotnet.pref" /etc/apt/preferences.d/dotnet.pref
 
 # Install .NET Core SDK
-sudo apt install dotnet-sdk-7.0 -y
+sudo apt install dotnet-sdk-8.0 -y
