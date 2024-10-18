@@ -22,6 +22,7 @@ sudo cp "$PKG_PATH/config/dotnet.pref" /etc/apt/preferences.d/dotnet.pref
 
 # Install .NET Core SDK
 sudo apt install dotnet-sdk-8.0 -y
+sudo apt-get -y autoremove
 
 # Install EF tool
 dotnet tool install --global dotnet-ef --version 8.*
